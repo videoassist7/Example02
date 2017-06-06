@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<show name="Example02">
+<item name="front camera">*cam front mix 15</item>
+<item name="media player 1">*mp1 news_opener mix 15</item>
+<item name="character generaror">*cg video_assist page 1 mix 15
+
+*cam front mix 15
+
+*cg video_assist page 2 mix 15
+
+*cam front mix 15
+
+*cg video_assist page 3 mix 15
+
+</item>
+<item name="media player 2">*mp2 news_opener mix 15</item>
+</show>
